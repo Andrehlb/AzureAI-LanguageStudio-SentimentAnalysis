@@ -9,4 +9,4 @@ Neste repositório, você encontrará implementações de análise de sentimento
 - Processamento de texto para identificar polaridades (positivas, negativas ou neutras).
 - Exemplos práticos e documentação detalhada.
 
-Compartilhe suas descobertas, aprendizados e desafios neste repositório. Vamos explorar juntos o mundo das emoções textuais! 😊
+Compartilhe com teus pares. Vamos explorar juntos o mundo das emoções textuais! 😊
