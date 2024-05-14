@@ -1,3 +1,5 @@
+# Repositório em construção 🚧🏗️🚧
+
 **Análise de Sentimentos com Language Studio no Azure AI**
 
 "**Análise de Sentimentos com Azure AI: Explorando Emoções Textuais**"
